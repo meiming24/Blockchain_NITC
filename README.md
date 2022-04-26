@@ -1,3 +1,3 @@
 # Blockchain_NITC
 
-This repository is about bloackchain knowledge, exercises, projects,... and many more
+This repository is about blockchain knowledge, exercises, projects,... and many more
